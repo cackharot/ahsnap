@@ -1,0 +1,9 @@
+certifi==2017.4.17
+chardet==3.0.4
+docutils==0.13.1
+flit==0.11.1
+idna==2.5
+requests==2.18.1
+requests-download==0.1.1
+urllib3==1.21.1
+zipfile36==0.1.3
